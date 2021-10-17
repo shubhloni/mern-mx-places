@@ -1,0 +1,8 @@
+{
+  "env":{
+    "DB_USER":"holyster",
+    "DB_PASSWORD":"Pass,007",
+    "DB_NAME":"mern-mx-places",
+    "JWT_KEY": "superkey"
+  }
+}
